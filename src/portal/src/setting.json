@@ -1,7 +1,7 @@
 {
-  "headerBgColor": "#9bffff",
-  "headerLogo": "test.png",
-  "loginBgImg": "coding.jpg",
+  "headerBgColor": "",
+  "headerLogo": "",
+  "loginBgImg": "",
   "appTitle": "HyperRegistry",
   "product": {
     "name": "HyperRegistry",
