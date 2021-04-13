@@ -1,0 +1,14 @@
+{
+  "headerBgColor": "#9bffff",
+  "headerLogo": "test.png",
+  "loginBgImg": "coding.jpg",
+  "appTitle": "HyperRegistry",
+  "product": {
+    "name": "HyperRegistry",
+    "introduction": {
+      "zh-cn": "",
+      "es-es": "",
+      "en-us": "Tmaxcloud's public image registry"
+    }
+  }
+}
