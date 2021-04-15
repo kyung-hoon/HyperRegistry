@@ -44,7 +44,7 @@ export class AppConfig {
         this.project_creation_restriction = "everyone";
         this.self_registration = true;
         this.has_ca_root = false;
-        this.harbor_version = "unknown";
+        this.harbor_version = "5.0.1";
         this.clair_vulnerability_status = {
             overall_last_update: 0,
             details: []

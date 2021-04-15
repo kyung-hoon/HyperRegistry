@@ -89,7 +89,7 @@ GEN_TLS=
 
 # version prepare
 # for docker image tag
-VERSIONTAG=v5.0.0
+VERSIONTAG=v5.0.2
 # for base docker image tag
 PUSHBASEIMAGE=
 BASEIMAGETAG=dev

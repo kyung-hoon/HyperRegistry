@@ -43,14 +43,8 @@ export class AppComponent {
 
         ) {
         // Override page title
-        let key: string = "APP_TITLE.HARBOR";
-        if (this.appConfigService.isIntegrationMode()) {
-            key = "APP_TITLE.REG";
-        }
-
-        translate.get(key).subscribe((res: string) => {
-            this.titleService.setTitle(res);
-        });
+      
+        this.titleService.setTitle("HyperRegistry");
         this.setTheme();
     }
     setTheme () {
