@@ -1,6 +1,6 @@
 {
   "headerBgColor": "",
-  "headerLogo": "",
+  "headerLogo": "HyperRegistry.svg",
   "loginBgImg": "",
   "appTitle": "HyperRegistry",
   "product": {
@@ -8,7 +8,7 @@
     "introduction": {
       "zh-cn": "",
       "es-es": "",
-      "en-us": "Tmaxcloud's public image registry"
+      "en-us": "Tmaxcloud's public image registry based on harbor"
     }
   }
 }
