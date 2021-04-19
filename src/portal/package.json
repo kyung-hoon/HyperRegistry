@@ -1,7 +1,7 @@
 {
-  "name": "harbor",
+  "name": "HyperRegistry",
   "version": "2.2.0",
-  "description": "Harbor UI with Clarity",
+  "description": "TmaxCloud's open source public registry based on harbor",
   "angular-cli": {},
   "scripts": {
     "postinstall": "node scripts/convert-yaml-to-json.js && ng-swagger-gen -i ng-swagger-gen/swagger.json -o ng-swagger-gen && node scripts/delete-swagger-json.js",
