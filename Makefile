@@ -89,7 +89,7 @@ GEN_TLS=
 
 # version prepare
 # for docker image tag
-VERSIONTAG=v5.0.2
+VERSIONTAG=v5.0.1
 # for base docker image tag
 PUSHBASEIMAGE=
 BASEIMAGETAG=dev
@@ -223,7 +223,7 @@ DOCKERFILEPATH_COMMON=$(MAKEPATH)/common
 
 # docker image name
 DOCKER_IMAGE_NAME_PREPARE=goharbor/prepare
-DOCKERIMAGENAME_PORTAL=kyunghoon451/hyper_registry_portal
+DOCKERIMAGENAME_PORTAL=tmaxcloudck/hyper-registry-portal
 DOCKERIMAGENAME_CORE=goharbor/harbor-core
 DOCKERIMAGENAME_JOBSERVICE=goharbor/harbor-jobservice
 DOCKERIMAGENAME_LOG=goharbor/harbor-log
